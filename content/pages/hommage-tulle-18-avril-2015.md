@@ -1,6 +1,9 @@
 Title: Hommages à Tulle le 18 avril 2015
 Date: 2016-03-30 10:30
 Author: Claire Loupias
+URL: hommage-tulle-le-18-avril-2015.html
+save_as: hommage-tulle-le-18-avril-2015.html
+
 
 # 1er discours : Présentation par le Maire de Tulle, Monsieur Bernard Combes 
 

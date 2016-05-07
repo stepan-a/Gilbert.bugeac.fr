@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Genevi\xe8ve Loupias'
 SITENAME = u'Gilbert Bugeac'
-SITEURL = ''
+SITEURL = 'https://gilbert.bugeac.fr'
 
 PATH = 'content'
 
@@ -19,17 +19,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-#LINKS = (('Pelican', 'http://getpelican.com/'),
-#         ('Python.org', 'http://python.org/'),
-#         ('Jinja2', 'http://jinja.pocoo.org/'),
-#         ('You can modify those links in your config file', '#'),)
-
-# Social widget
-#SOCIAL = (('You can add links in your config file', '#'),
-#          ('Another social link', '#'),)
-
-THEME = "pelican-themes/pelican-bootstrap3"
+THEME = "theme"
 
 DEFAULT_PAGINATION = 10
 
@@ -43,4 +33,4 @@ HIDE_SIDEBAR = True
 BOOTSTRAP_THEME = 'readable'
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True

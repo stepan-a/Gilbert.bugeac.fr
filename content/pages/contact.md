@@ -4,4 +4,4 @@ Author: Claire Loupias
 URL: contact.html
 save_as: contact.html
 
-Geneviève Loupias, genevieve@bugeac.fr
+Geneviève Loupias, [genevieve@bugeac.fr](mailto:genevieve@bugeac.fr)

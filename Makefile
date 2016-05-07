@@ -15,7 +15,7 @@ FTP_TARGET_DIR=/
 SSH_HOST=ithaca.fr
 SSH_PORT=22
 SSH_USER=stepan
-SSH_TARGET_DIR=/var/www/bugeac.fr
+SSH_TARGET_DIR=/home/bugeac/www/
 
 S3_BUCKET=my_s3_bucket
 

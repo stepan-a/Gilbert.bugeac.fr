@@ -5,7 +5,7 @@ URL: hommage-tulle-le-18-avril-2015.html
 save_as: hommage-tulle-le-18-avril-2015.html
 
 
-# 1er discours : Présentation par le Maire de Tulle, Monsieur Bernard Combes 
+### 1er discours : Présentation par le Maire de Tulle, Monsieur Bernard Combes
 
 Mesdames et Messieurs, chers amis, bonjour. Aujourd’hui nous
 allons inaugurer l’espace Gilbert Bugeac. Je tiens à remercier la
@@ -24,7 +24,7 @@ remercie. J’espère que vous entendez assez. (Non !) Ben c’est dommage
 parce qu’on n’a pas de micro. Alors Monsieur Delaunay vous allez vous
 approcher là.
 
-# 2ème discours : M. Bernard Delaunay, co-Président Départemental de l’ANACR
+### 2ème discours : M. Bernard Delaunay, co-Président Départemental de l’ANACR
 
 Alors merci Monsieur le Maire (bien fort) de me donner la
 parole. L’histoire évidemment c’est celle de Gilbert Bugeac. Je vais
@@ -151,7 +151,7 @@ citoyens. Merci à vous.
 
 BRAVO !
 
-# 3ème discours : Geneviève Loupias, fille de Gilbert Bugeac 
+### 3ème discours : Geneviève Loupias, fille de Gilbert Bugeac
 
 Je tiens à remercier toutes les autorités militaires et civiles qui
 sont présentes à cette réunion (plus fort), ainsi que la Ville de
@@ -471,7 +471,7 @@ Tulle, il n’a pas complètement réussi…
 
 BRAVO !
 
-# 4ème discours : Présentation de Monsieur Yves Juin, adjoint au maire de Tulle :
+### 4ème discours : Présentation de Monsieur Yves Juin, adjoint au maire de Tulle :
 
 Eh bien écoutez, on va vous demander encore un moment d’attention,
 parce que les élèves vont nous chanter le chant des partisans, on fera
@@ -509,19 +509,23 @@ matin.
 
 BRAVO !
 
+<br><br><br><br>
+
 Cette version de l’inauguration est retranscrite de vidéos. Quelques
 coquilles orales ont été rectifiées et quelques précisions apportées
 entre parenthèses.
 
-………………………….. 
-Liste des sigles :
-ANACR : Association Nationale des Anciens Combattants et amis de la Résistance
-BCRA : Bureau Central de Renseignements et d’Action
-CDL : Comité De Libération
-CNR : Conseil National de la Résistance
-COPA : Centre d’Opérations de Parachutage et d’Atterrissage
-DMR : Délégué Militaire Régional
-FTP : Francs-Tireurs et Partisans
-SAP : Service d’Atterrissage Parachutage
-SOAM : Service des Opérations Aériennes et Maritimes
-SOE : Special Operation Executive
+<br>
+
+#### Liste des sigles :
+
+ * ANACR : Association Nationale des Anciens Combattants et amis de la Résistance
+ * BCRA : Bureau Central de Renseignements et d’Action
+ * CDL : Comité De Libération
+ * CNR : Conseil National de la Résistance
+ * COPA : Centre d’Opérations de Parachutage et d’Atterrissage
+ * DMR : Délégué Militaire Régional
+ * FTP : Francs-Tireurs et Partisans
+ * SAP : Service d’Atterrissage Parachutage
+ * SOAM : Service des Opérations Aériennes et Maritimes
+ * SOE : Special Operation Executive

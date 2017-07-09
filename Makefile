@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=ithaca.fr
+SSH_HOST=adjemian.eu
 SSH_PORT=22
 SSH_USER=stepan
-SSH_TARGET_DIR=/home/bugeac/www/
+SSH_TARGET_DIR=/home/stepan/www/gilbert.bugeac.fr
 
 S3_BUCKET=my_s3_bucket
 

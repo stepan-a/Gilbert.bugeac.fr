@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Genevi\xe8ve Loupias'
+AUTHOR = u'Geneviève Loupias'
 SITENAME = u'Gilbert Bugeac'
 SITEURL = 'https://gilbert.bugeac.fr'
 
@@ -18,6 +18,9 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+MENUITEMS = (('Hommage à Tulle, 18 avril 2015', 'hommage-tulle-le-18-avril-2015.html'),
+             ('Contact', 'contact.html') )
 
 THEME = "theme"
 
